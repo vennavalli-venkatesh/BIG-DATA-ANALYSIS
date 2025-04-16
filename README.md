@@ -20,3 +20,7 @@ Objective: The goal of this task was to analyze the California Housing Dataset u
 --Jupyter Notebook: The development environment used to write and execute PySpark code.
 
 --GitHub: For version control and project sharing.
+
+#OUTPUT :
+![Image](https://github.com/user-attachments/assets/a471527d-bcf6-4667-9772-04165c204eb8)
+![Image](https://github.com/user-attachments/assets/a100ef64-4482-462b-950b-86960098bd33)
